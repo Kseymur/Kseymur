@@ -1,8 +1,14 @@
-# 🐾 about me
+# 🐾 About me
 
 - 🐍 I use python for ML
 - 🧠 I want to make computers smarter
 - 👩‍💻 I am constantly learning something new
+
+# 🛠 Tech Stack
+
+- 📊 Data analysis： ![Pandas](https://img.shields.io/badge/-Pandas-lightgrey)![Plotly](https://img.shields.io/badge/-Plotly-lightgrey)![SciPy](https://img.shields.io/badge/-SciPy-lightgrey)
+- 💻 Machine Learning： ![scikit-learn](https://img.shields.io/badge/-scikit--learn-lightgrey)![PyTorch](https://img.shields.io/badge/-PyTorch-lightgrey)
+- 🗄️ Back-end and db： ![Docker](https://img.shields.io/badge/-Docker-lightgrey)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightgrey)
 
 
 <!--
