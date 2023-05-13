@@ -1,4 +1,9 @@
-### Hi there 👋
+# 🐾 about me
+
+- 🐍 I use python for ML
+- 🧠 I want to make computers smarter
+- 👩‍💻 I am constantly learning something new
+
 
 <!--
 **Kseymur/Kseymur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
