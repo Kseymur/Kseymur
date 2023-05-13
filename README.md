@@ -6,9 +6,9 @@
 
 # 🛠 Tech Stack
 
-- 📊 Data analysis： ![Pandas](https://img.shields.io/badge/-Pandas-lightgrey)![Plotly](https://img.shields.io/badge/-Plotly-lightgrey)![SciPy](https://img.shields.io/badge/-SciPy-lightgrey)
-- 💻 Machine Learning： ![scikit-learn](https://img.shields.io/badge/-scikit--learn-lightgrey)![PyTorch](https://img.shields.io/badge/-PyTorch-lightgrey)
-- 🗄️ Back-end and db： ![Docker](https://img.shields.io/badge/-Docker-lightgrey)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightgrey)
+- 📊 Data analysis： ![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-circle&logo=Pandas)![Plotly](https://img.shields.io/badge/-Plotly-lightgrey?style=flat-circle&logo=Plotly)![SciPy](https://img.shields.io/badge/-SciPy-yellow?style=flat-circle&logo=SciPy)
+- 💻 Machine Learning： ![scikit-learn](https://img.shields.io/badge/-scikit--learn-green?style=flat-circle&logo=scikit-learn)![PyTorch](https://img.shields.io/badge/-PyTorch-green?style=flat-circle&logo=PyTorch)
+- 🗄️ Back-end and db： ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightgrey?style=flat-circle&logo=PostgreSQL)
 
 
 <!--
