@@ -1,27 +1,22 @@
-# 🐾 About me
+# 🐾 About Me
 
-- 🐍 I use python for ML
-- 🧠 I want to make computers (and myself) smarter
-- 👩‍💻 I am constantly learning something new
+- 🐍 I use **Python** and **JavaScript** to build AI-driven solutions.  
+- 🧠 I love researching, experimenting, and improving systems that make technology (and people) smarter.  
+- 👩‍💻 Constantly learning and exploring new tools and frameworks.
 
 # 🛠 Tech Stack
 
-- 📊 Data analysis： ![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-circle&logo=Pandas)![Plotly](https://img.shields.io/badge/-Plotly-lightgrey?style=flat-circle&logo=Plotly)![SciPy](https://img.shields.io/badge/-NumPy-yellow?style=flat-circle&logo=NumPy)
-- 💻 Machine Learning： ![scikit-learn](https://img.shields.io/badge/-scikit--learn-blueviolet?style=flat-circle&logo=scikit-learn)![PyTorch](https://img.shields.io/badge/-PyTorch-green?style=flat-circle&logo=PyTorch)
-- 🗄️ Back-end and db： ![Docker](https://img.shields.io/badge/-Docker-ff69b4?style=flat-circle&logo=Docker)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-yellowgreen?style=flat-circle&logo=PostgreSQL)
+### 🧩 Languages & Core
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=TypeScript)
 
+### ☁️ Automation & Serverless
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions)
+![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare_Workers-F38020?style=flat&logo=cloudflare)
+![Google Apps Script](https://img.shields.io/badge/-Google_Apps_Script-4285F4?style=flat&logo=google)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker)
 
-<!--
-**Kseymur/Kseymur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
